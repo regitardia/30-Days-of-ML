@@ -1,4 +1,3 @@
-30 Days of ML
 Kaggle's 30 Days Of Machine Learning Challenge
 
 Day 1 - Titanic. Machine Learning from Disaster
