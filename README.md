@@ -1,5 +1,6 @@
-# 30-Days-of-ML
+30 Days of ML
 Kaggle's 30 Days Of Machine Learning Challenge
+
 Day 1 - Titanic. Machine Learning from Disaster
 The competition is simple: we want you to use the Titanic passenger data (name, age, price of ticket, etc) to try to predict who will survive and who will die.
 Day 2 - Exercise: Syntax, Variables, and Numbers
