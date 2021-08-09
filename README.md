@@ -15,3 +15,5 @@ Day 5 - Exercise: Lists, Loops and List Comprehensions
 Day 6 - Exercise: Strings and Dictionaries
 
 Day 7 - Exercise: Working with External Libraries
+
+Day 8 - Exercise: Explore Your Data
