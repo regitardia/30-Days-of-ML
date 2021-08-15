@@ -17,3 +17,11 @@ Day 6 - Exercise: Strings and Dictionaries
 Day 7 - Exercise: Working with External Libraries
 
 Day 8 - Exercise: Explore Your Data
+
+Day 9 - Your First Machine Learning Model
+
+Day 10 - Underfitting and Overfitting
+
+Day 11 - Machine Learning Competitions
+
+Day 12 - Intermediate Machine Learning. Introduction, Missing Values, Categorical Variables
