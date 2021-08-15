@@ -25,3 +25,5 @@ Day 10 - Underfitting and Overfitting
 Day 11 - Machine Learning Competitions
 
 Day 12 - Intermediate Machine Learning. Introduction, Missing Values, Categorical Variables
+
+Day 13 - Pipelines, Cross-Validation
